@@ -2,7 +2,7 @@
 
 ## 概要
 
-CNN（Convolutional Neural Network）とVision Transformer（ViT）を用いて画像分類モデルを構築し、画像分類性能の比較を行いました。
+Convolutional Neural Network（CNN）とVision Transformer（ViT）を用いて画像分類モデルを構築し、画像分類性能の比較を行いました。
 
 CNNでは画像の局所的な特徴を利用した分類、ViTではTransformerを用いた画像全体の特徴を考慮した分類を行い、分類精度や学習時間の違いについて比較・考察しました。:contentReference[oaicite:1]{index=1}
 
